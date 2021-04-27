@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>resources/eye_unvisible.ico</file>
+        <file>resources/eye_visible.ico</file>
+    </qresource>
+    <qresource prefix="/cascades">
+        <file>resources/haarcascade_eye.xml</file>
+        <file>resources/haarcascade_frontalface_alt2.xml</file>
+    </qresource>
+</RCC>
